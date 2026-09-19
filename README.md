@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Abhishek Kumar 👋
 
-<!--
-**rabhimsj/rabhimsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer with hands-on experience in building scalable web applications, REST APIs, and integrating AI solutions. Currently pursuing MCA at Kanpur Institute of Technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Languages:** Java, Python, C, JavaScript (ES6+), HTML5, CSS3
+- **Frontend:** React.js, Bootstrap, Tailwind CSS, Responsive Design
+- **Backend:** Node.js, Express.js, FastAPI, REST APIs
+- **Databases:** MongoDB, MySQL
+- **Developer Tools:** Git, GitHub, VS Code, Postman, Debugging
+
+---
+
+### 🚀 Featured Projects
+- **CampusMind AI – Smart Study Assistant**
+  - Built a Full-Stack app (FastAPI + React) with seamless UI/UX.
+  - Integrated Google Gemini AI REST APIs for instant, real-time student Q&A and note summarization.
+  - Secured backend API endpoints and configured env variables for safe execution.
+
+- **Fake News Detection System**
+  - Developed responsive frontend UI for news verification and display.
+  - Integrated REST APIs and managed database connectivity for CRUD operations.
+
+---
+
+### 🎓 Education & Certification
+- **Master of Computer Applications (MCA)** – Kanpur Institute of Technology *(Pursuing)*
+- **Bachelor of Commerce (B.Com)** – Radha Govind University[cite: 2]
+- **Digital Productivity with AI** – UNICEF YuWaah (Score: 100%)[cite: 2]
+
+---
+
+📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/abhishek-maurya-688816235
+
+) | **Email:** abhishekpratap42980@gmail.com
