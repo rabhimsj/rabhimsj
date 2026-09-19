@@ -27,8 +27,8 @@ Full-Stack Developer with hands-on experience in building scalable web applicati
 
 ### 🎓 Education & Certification
 - **Master of Computer Applications (MCA)** – Kanpur Institute of Technology *(Pursuing)*
-- **Bachelor of Commerce (B.Com)** – Radha Govind University[cite: 2]
-- **Digital Productivity with AI** – UNICEF YuWaah (Score: 100%)[cite: 2]
+- **Bachelor of Commerce (B.Com)** – Radha Govind University
+- **Digital Productivity with AI** – UNICEF YuWaah (Score: 100%)
 
 ---
 
