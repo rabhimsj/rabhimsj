@@ -32,6 +32,6 @@ Full-Stack Developer with hands-on experience in building scalable web applicati
 
 ---
 
-📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/abhishek-maurya-688816235
+📫 **Connect with me:** [LinkedIn](http://www.linkedin.com/in/abhishek-maurya-688816235
 
 ) | **Email:** abhishekpratap42980@gmail.com
